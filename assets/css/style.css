@@ -98,6 +98,9 @@ li a{
 }
 
 ul{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     background-color: #fff;
     border:1px dashed #0a0a0a;
     border-radius: 10px;
